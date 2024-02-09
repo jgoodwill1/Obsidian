@@ -1,0 +1,7 @@
+- AGU conference questions
+	- Work life balance/ work boundaries
+		- Burnout
+	- Relationship with advisor
+	- Imposter syndrome/self confidence
+	- Breaking big projects into smaller tasks
+	- Aligning passions with research

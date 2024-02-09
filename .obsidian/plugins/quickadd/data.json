@@ -1,0 +1,211 @@
+{
+  "choices": [
+    {
+      "id": "4996f212-e4dd-40c1-903d-1c2f929bd4b8",
+      "name": "New",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "7859ed06-22de-436a-821e-a75ad898ecd2",
+          "name": "Code",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/Code.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Plasma Turbulence/Code"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Append to the bottom of the file",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "3036b69b-7dd5-4346-abc7-221df0e718e0",
+          "name": "To Do",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/To Do.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{Date:YYYY-MM-DD}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Plasma Turbulence/To Do"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Nothing",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "4dad9773-13bf-4308-af63-79b0615df0cc",
+          "name": "Plasma Turbulence",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/Plasma Turbulence.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Plasma Turbulence"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "fcabbcba-28f8-4eb2-957d-26591f01f553",
+          "name": "Random",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/Random.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Personal/Random"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "1b56479e-3451-49c3-81b6-ca0e5c3cf212",
+          "name": "New Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/New Note.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "36880694-acf5-40cd-8d59-0072af84ee22",
+          "name": "Journal",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Template/Journal.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{DATE:YYYY-MM-DD (ddd)}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Personal/Journal"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source",
+          "fileExistsMode": "Nothing",
+          "setFileExistsBehavior": true
+        }
+      ]
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Template",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

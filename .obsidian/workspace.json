@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "e231021e962f2610",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8b7687b32ff381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1462292f7a8f9550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plasma Turbulence/RRE Equations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf5349d3d5b9477c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Plasma Turbulence"
+              }
+            }
+          },
+          {
+            "id": "1b8da4933f6e25fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plasma Turbulence/Code/PiD.py.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9862836694bbb055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plasma Turbulence/To Do/2024-02-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec2dc3af96b4b2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plasma Turbulence/Kelvin-Helmholtz/KH Units.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fd35d7fa5ae22c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9272089327562999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3298da017f24d1bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc37dfd7ad9ea30c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "de684542aae4208d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f73f3fc455fad1b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2a4a51b78634a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "61060ac3d082db00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fa471a5f25184f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ce6a9939515b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd7a42116f0a6e5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ad7030b998d706c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d767a0cf81ee9f05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "44142f06f094b434",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "165cac9d89aee9df",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e070a5100e253509",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "mathpad:Open Mathpad": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "cf5349d3d5b9477c",
+  "lastOpenFiles": [
+    "Plasma Turbulence/RRE Equations.md",
+    "Backup/VPIC/Untitled.md",
+    "Backup/VPIC/Questions.md",
+    "Backup/VPIC/PIC Normalizations.md",
+    "Backup/VPIC/Courant–Friedrichs–Lewy condition.md",
+    "Backup/VPIC",
+    "Backup/To Do/To Do.md",
+    "Backup/To Do/January 22, 2024.md",
+    "Backup/To Do",
+    "Backup/Summer Project/Summer Project.md",
+    "Backup/Summer Project/Initial Conditions.md",
+    "Backup/Summer Project",
+    "Backup/RRE Equations.md",
+    "Backup/Plasma Turbulence.md",
+    "Backup/PDF/PiD.py.pdf",
+    "Backup/PDF/Kelvin Helmholtz Instability.pdf",
+    "Backup/PDF/Pi-D Calculation.pdf",
+    "Backup/PDF/Kelvin Helmholtz Derivation.pdf",
+    "Backup/PDF/Analysis.py.pdf",
+    "Backup/PDF/1D Energy Spectrum.pdf",
+    "Backup/PDF",
+    "Backup/Kelvin-Helmholtz/Vorticity.md",
+    "Backup/Kelvin-Helmholtz/Kelvin Helmholtz Instability.md",
+    "Backup/Kelvin-Helmholtz/Kelvin Helmholtz Initialization.md",
+    "Backup/Kelvin-Helmholtz/Kelvin Helmholtz Derivation.md",
+    "Backup/Kelvin-Helmholtz/KHI_diagram.jpg",
+    "Backup/Kelvin-Helmholtz/KH.cc.md",
+    "Backup/Kelvin-Helmholtz/KH Units.md",
+    "Backup/Kelvin-Helmholtz/KH Chandrasekhar.md",
+    "Backup/Kelvin-Helmholtz/Equations.md",
+    "Backup/Kelvin-Helmholtz/Cross Helicity.md",
+    "Backup/Equation Sheet.md",
+    "Backup/Energy Spectrum/Filtering.md",
+    "Backup/Energy Spectrum/2D Spectrum.md",
+    "Backup/Energy Dissipation/Pi-D Calculation.md",
+    "Backup/Code/setup.py.md",
+    "Backup/Code/pTheta.py.md",
+    "Plasma Turbulence/Kelvin-Helmholtz/KHI_diagram.jpg",
+    "Personal/Untitled 1.canvas",
+    "Personal/Untitled.canvas",
+    "Attachments/magSpec_filt.jpg",
+    "Attachments/Yan_Spectrum.jpeg",
+    "Attachments/149p6_spectrum.jpg",
+    "Attachments/swtchbck.jpg",
+    "Attachments/B2_fft.gif",
+    "Attachments/149p6_spectrum 2.jpg",
+    "Attachments/149p6_spectrum 1.jpg",
+    "Attachments/magSpec_filt 1.jpg",
+    "Untitled.canvas"
+  ]
+}

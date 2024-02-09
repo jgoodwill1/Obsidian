@@ -1,0 +1,115 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "42820c24-1cd7-4273-a364-c4a53e48cf0a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Gift",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "4d6251f4-1001-42b4-b5f3-bb05c0460e6e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-unique",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "c852ccbf-3c80-4527-8742-22966e864481",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "80efc78c-ddff-4d21-a4ce-d2a30ef2138c",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-27T18:40:10.582Z",
+        "lastEditedDateTime": "2024-01-27T18:45:24.894Z",
+        "cells": [
+          {
+            "id": "28980f7b-9c7d-4228-8ca8-8832bdabcfc6",
+            "columnId": "42820c24-1cd7-4273-a364-c4a53e48cf0a",
+            "content": "Princess Bride",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bbb3a58a-a1c5-4f9f-bfc9-819af2dc7394",
+            "columnId": "4d6251f4-1001-42b4-b5f3-bb05c0460e6e",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bfc75659-cc67-4a16-bfef-9986813e42f7",
+            "columnId": "c852ccbf-3c80-4527-8742-22966e864481",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}

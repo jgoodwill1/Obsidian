@@ -1,0 +1,2 @@
+- Discuss best route to take for Kelvin Helmholtz instability. If we are choosing to work on switchbacks or should look for a different project to work on.
+- Discuss making simulation similar to PSP parameters

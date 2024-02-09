@@ -1,0 +1,55 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "aabc99b8-300b-448d-8077-4dbcc60dc212",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "c6216c3d-0ffe-4899-8078-209e8ff2477e",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-27T18:48:41.997Z",
+        "lastEditedDateTime": "2024-01-27T18:48:41.997Z",
+        "cells": [
+          {
+            "id": "8c9e3179-3255-4d7e-84d8-c50c6f017533",
+            "columnId": "aabc99b8-300b-448d-8077-4dbcc60dc212",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
