@@ -1,5 +1,0 @@
----
-sticker: lucide//qr-code
----
-```
-```
